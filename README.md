@@ -20,7 +20,7 @@ python -m aestool
 Decrypt a text:
 (Select the option to decrypt a file, provide the filenames for the encrypted text, key, and IV, and it will decrypt the text.)
 
-'''sh
+
 python -m aestool
 
 
