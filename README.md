@@ -1,2 +1,10 @@
 # aestool
-Advanced AES encryption and decryption tool
+
+aestool is a simple AES encryption and decryption tool.
+
+## Installation
+
+You can install the package using pip:
+
+```sh
+pip install aestool
