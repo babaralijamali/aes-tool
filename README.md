@@ -1,6 +1,7 @@
 # AES Encryption Decyption Tool
 
-aestool is advanced AES encryption and decryption tool.
+Aestool is advanced AES encryption and decryption tool.
+Version : 0.0.1
 
 ## Installation
 
