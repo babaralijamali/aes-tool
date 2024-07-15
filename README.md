@@ -1,6 +1,13 @@
-# AES Encryption Decyption Tool
+# Advanced AES Encryption Decyption Tools
 
 Aestool is advanced AES encryption and decryption tools.
+
+## Features
+- Generate AES key
+- Encrypt text
+- Decrypt text
+- Save and load keys
+- Save and load IVs
 
 ## Installation
 You can install the package using pip:
@@ -18,4 +25,3 @@ aestools
 (Select the option to decrypt a file, provide the filenames for the encrypted text, key, and IV, and it will decrypt the text.)
 
 aestools
-
