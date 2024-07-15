@@ -1,10 +1,8 @@
 # AES Encryption Decyption Tool
 
-Aestool is advanced AES encryption and decryption tool.
-Version : 0.0.1
+Aestool is advanced AES encryption and decryption tools.
 
 ## Installation
-
 You can install the package using pip:
 
 pip install aestool
@@ -20,6 +18,4 @@ aestool
 (Select the option to decrypt a file, provide the filenames for the encrypted text, key, and IV, and it will decrypt the text.)
 
 aestool
-
-
 
